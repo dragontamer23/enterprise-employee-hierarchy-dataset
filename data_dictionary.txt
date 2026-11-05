@@ -1,0 +1,19 @@
+﻿ENTERPRISE EMPLOYEE & CORPORATE HIERARCHY DATASET
+Version: 1.0 (Cleaned & Normalized)
+Records: 5,200+
+File format: CSV (UTF-8)
+
+SCHEMA DESCRIPTION:
+- Employee_ID: Unique identifier string for each employee profile.
+- Name: Full employee name (standard title case, trimmed).
+- Department: Operating functional division (e.g., Engineering, Sales, Product).
+- Company_ID: Internal corporate identifier.
+- Job_Title: Official role and corporate title.
+- Seniority_Level: Organizational level (Executive, Director, Manager, Senior, Entry).
+- Education_Level: Verified academic tier (Bachelors, Masters, PhD).
+- Work_Location: Geographic office assignment.
+- Influence_Score: Internal ranking metric for org hierarchy mapping.
+- Decision_Maker_Flag: Boolean indicator (1 = Budget/Decision authority, 0 = Non-authority).
+- Preferred_Contact_Method: Designated outreach preference.
+- Last_Contact_Date / Next_Followup_Date: Structured pipeline touchpoints.
+- Active_Flag: Employment status indicator.

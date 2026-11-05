@@ -1,0 +1,51 @@
+Employee_ID,Name,Department,Company_ID,Job_Title,Seniority_Level,Education_Level,Work_Location,Newsletter_Subscription,Campaign_Response_Rate (%),Tenure_Years,Event_Attendance,Influence_Score,Decision_Maker_Flag,Preferred_Contact_Method,Language,Last_Contact_Date,Next_Followup_Date,Owner_Rep,Active_Flag,Data_Source
+E00001,Z**** G*******,Marketing,C0015,Marketing Specialist,Mid,Master,Office,No,27,5.0,3.0,61.0,No,Email,Turkish,2024-04-06,2024-04-11,E**** T*******,Yes,CRM
+E00002,L**** Y*******,Procurement,C0123,Strategic Buyer,Senior,Bachelor,Office,Yes,0,7.0,2.0,94.0,Yes,Phone,Turkish,2024-08-05,2024-08-24,F**** O*******,Yes,CRM
+E00003,Z**** A*******,Quality,C0589,Qa Specialist,Junior,Bachelor,Office,Yes,0,1.0,0.0,49.0,No,Phone,Turkish,2024-07-16,2024-07-28,H**** N*******,Yes,LinkedIn
+E00004,B**** A*******,Marketing,C0410,Digital Marketing Executive,Junior,Master,Office,No,15,2.0,3.0,32.0,No,Events,Turkish,2024-08-30,2024-09-06,E**** T*******,Yes,LinkedIn
+E00005,T**** D*******,Management,C0408,Country Manager,Mid,Bachelor,Field,Yes,0,6.0,2.0,67.0,Yes,Email,Turkish,2024-04-26,2024-05-25,D**** S*******,Yes,CRM
+E00006,L**** *******,Engineering,C0584,Mechanical Engineer,Junior,PhD,Field,No,2,2.0,1.0,45.0,No,Phone,,2024-08-16,2024-09-07,G**** R*******,Yes,LinkedIn
+E00007,E**** K*******,Procurement,C0177,Procurement Manager,Director,High School,Office,No,5,14.0,2.0,62.0,Yes,Email,English,2024-09-10,2024-10-06,G**** R*******,Yes,CRM
+E00008,L**** K*******,Quality,C0301,Quality Assurance Lead,Junior,Bachelor,Office,Yes,3,2.0,2.0,56.0,No,Email,Turkish,2024-05-20,2024-06-18,D**** S*******,Yes,Email Campaign
+E00009,C**** G*******,Quality,C0389,Qa Specialist,Senior,Bachelor,Office,Yes,5,8.0,0.0,77.0,Yes,LinkedIn,English,2024-02-25,2024-03-05,A**** Y*******,Yes,Fair
+E00010,E**** O*******,Engineering,C0283,Process Engineer,Mid,Bachelor,Factory,Yes,1,6.0,1.0,50.0,No,Phone,Turkish,2024-07-17,2024-08-07,B**** K*******,Yes,CRM
+E00011,S**** K*******,Quality,C0272,Qa Technician,Junior,Master,Office,Yes,1,2.0,1.0,66.0,No,Phone,Turkish,2024-04-19,2024-04-25,D**** S*******,Yes,CRM
+E00012,Z**** D*******,Procurement,C0290,Procurement Manager,Senior,Bachelor,Office,No,4,7.0,0.0,70.0,Yes,LinkedIn,Turkish,2024-09-05,2024-09-15,A**** Y*******,Yes,LinkedIn
+E00013,Z**** K*******,Engineering,C0277,Process Engineer,Senior,Bachelor,Office,No,2,9.0,0.0,71.0,No,Email,Turkish,2024-02-21,2024-03-18,G**** R*******,Yes,CRM
+E00014,A**** C*******,Engineering,C0214,Mechanical Engineer,Senior,Master,Factory,No,7,10.0,0.0,29.0,No,LinkedIn,Turkish,2024-01-16,2024-01-30,C**** D*******,Yes,Fair
+E00015,B**** A*******,It,C0070,Software Developer,Mid,Bachelor,Office,No,6,3.0,0.0,70.0,No,Email,Turkish,2024-06-24,2024-07-07,H**** N*******,No,CRM
+E00016,C**** D*******,Marketing,C0279,Marketing Specialist,Junior,Master,Office,No,15,2.0,4.0,79.0,No,Email,English,2024-01-08,2024-02-02,F**** O*******,No,Email Campaign
+E00017,A**** Kc******,Engineering,C0498,Electrical Engineer,Director,Bachelor,Office,No,0,17.0,0.0,53.0,No,LinkedIn,,2024-05-12,2024-06-03,G**** R*******,Yes,CRM
+E00018,A**** K*******,Marketing,C0584,Brand Manager,Senior,Bachelor,Office,No,22,7.0,1.0,56.0,Yes,Email,English,2024-07-15,2024-07-20,C**** D*******,Yes,CRM
+E00019,B**** D*******,Procurement,C0463,Strategic Buyer,Junior,PhD,Factory,Yes,4,0.0,0.0,63.0,Yes,Email,Turkish,2024-05-25,2024-06-16,H**** N*******,Yes,LinkedIn
+E00020,Z**** P*******,Sales,C0438,Account Manager,Junior,Bachelor,Office,Yes,26,0.0,1.0,91.0,Yes,Events,English,2024-06-18,2024-07-05,F**** O*******,Yes,LinkedIn
+E00021,B**** K*******,Sales,C0194,Key Account Executive,Mid,Master,Office,No,20,5.0,4.0,66.0,No,Phone,Turkish,2024-04-07,2024-04-27,B**** K*******,Yes,CRM
+E00022,N**** K*******,Sales,C0095,Key Account Executive,Director,High School,Office,Yes,23,11.0,1.0,89.0,Yes,Email,Turkish,2024-01-31,2024-02-09,H**** N*******,Yes,LinkedIn
+E00023,C**** D*******,Sales,C0525,Sales Manager,Mid,Master,Office,Yes,10,5.0,3.0,52.0,Yes,LinkedIn,Turkish,2024-06-30,2024-07-22,B**** K*******,Yes,CRM
+E00024,D**** A*******,Operations,C0089,Ops Coordinator,Junior,Master,Factory,Yes,5,1.0,2.0,30.0,No,LinkedIn,English,2024-05-21,2024-06-12,B**** K*******,Yes,LinkedIn
+E00025,D**** K*******,Procurement,C0255,Procurement Manager,Mid,Master,Office,Yes,0,3.0,2.0,43.0,No,Email,English,2024-07-04,2024-07-12,B**** K*******,Yes,Email Campaign
+E00026,C**** A*******,Engineering,C0009,Electrical Engineer,Mid,Master,Office,Yes,0,4.0,1.0,52.0,No,Email,English,2024-08-02,2024-08-15,A**** Y*******,Yes,CRM
+E00027,K**** K*******,Procurement,C0283,Strategic Buyer,Senior,Bachelor,Factory,Yes,0,11.0,2.0,69.0,No,LinkedIn,Turkish,2024-04-21,2024-05-11,C**** D*******,Yes,CRM
+E00028,M**** O*******,It,C0330,Network Engineer,Mid,Bachelor,Office,Yes,3,5.0,2.0,23.0,No,Phone,English,2024-01-10,2024-02-07,C**** D*******,Yes,Fair
+E00029,C**** D*******,Operations,C005,Ops Coordinator,Senior,High School,Office,no,9,11.0,2.0,,Yes,Email,ENGLISH,2024-08-22,2024-09-03,F**** O*******,Yes,CRM
+E00030,B**** O*******,It,C0415,Systems Engineer,Junior,Bachelor,Remote,No,6,0.0,1.0,61.0,No,LinkedIn,Turkish,2024-01-03,2024-01-30,C**** D*******,Yes,Email Campaign
+E00031,O**** P*******,Procurement,C0428,Procurement Manager,Junior,Bachelor,Factory,No,7,0.0,2.0,17.0,No,Email,English,2024-06-21,2024-07-18,H**** N*******,Yes,CRM
+E00032,S**** C*******,Operations,C0388,Ops Coordinator,Mid,Bachelor,Remote,Yes,2,3.0,0.0,39.0,No,Email,Turkish,2024-04-17,2024-04-27,F**** O*******,Yes,LinkedIn
+E00033,L**** A*******,Procurement,C0681,Procurement Analyst,Mid,Bachelor,Factory,No,6,4.0,0.0,67.0,YES,Email,jurkish,2024-07-15,2024-08-06,F**** O*******,Yes,Email Campaign
+E00034,B**** A*******,Management,C0372,Operations Director,Senior,PhD,Factory,No,2,9.0,0.0,71.0,No,Email,Turkish,2024-02-02,2024-02-26,A**** Y*******,No,Webinar
+E00035,N**** Y*******,Marketing,C0458,Brand Manager,Director,Master,Factory,Yes,20%,,4.0,39.0,No,Phone,urkish,2024-03-01,2024-03-16,F**** O*******,YES,CRM
+E00036,S**** Y*******,Engineering,C0712,Mechanical Engineer,Mid,PhD,Office,Yes,1,6.0,0.0,57.0,Yes,Phone,TURKIS,2024-05-04,2024-04-09,G**** R*******,Yes,crm
+E00037,M**** Y*******,It,C0345,Systems Engineer,Mid,Master,Office,Yes,2,3.0,0.0,83.0,No,Email,Turkish,2024-07-22,2024-07-29,B**** K*******,Yes,Email Campaign
+E00038,D**** A*******,Sales,C0678,Sales Manager,Mid,Bachelor,Office,No,17,3.0,5.0,79.0,Yes,Phone,Turkish,2024-03-01,2024-03-15,G**** R*******,Yes,CRM
+E00039,A**** P*******,It,C0453,Network Engineer,Senior,Master,Office,No,1,7.0,1.0,75.0,No,Email,Turkish,2024-01-29,2024-02-28,A**** Y*******,Yes,LinkedIn
+E00040,A**** K*******,Procurement,C0516,Procurement Analyst,Junior,Bachelor,Remote,Yes,0,0.0,0.0,81.0,No,Email,English,2024-01-15,2024-02-09,F**** O*******,Yes,CRM
+E00041,E**** G*******,Engineering,q0378,Mechanical Engineer,Director,,Office,No,6,12.0,0.0,63.0,Yes,Email,english,2024-07-27,2024-08-15,D**** S*******,Yes,CRM
+E00042,E**** C*******,Management,C0596,Plant Manager,Mid,Bachelor,Office,no,0,,0.0,83.0,Yes,Email,Tutkish,2024-04-01,2024-04-29,A**** Y*******,Yes,Email Campaign
+E00043,Z**** A*******,Production,C0691,Production Engineer,Mid,Master,Remote,Yes,0,3.0,1.0,31.0,No,Email,Turkish,2024-06-19,2024-07-12,F**** O*******,Yes,CRM
+E00044,D**** K*******,Marketing,C0280,Digital Marketing Executive,Mid,Bachelor,Office,Yes,19,4.0,5.0,47.0,No,Email,English,2024-08-05,2024-09-03,A**** Y*******,Yes,CRM
+E00045,C**** U*******,Operations,C0278,Ops Coordinator,Mid,Bachelor,Office,No,0,5.0,2.0,33.0,No,phone,Turkish,2024-03-15,2024-03-25,F**** O*******,Yes,cr
+E00046,S**** Y*******,Quality,C0568,Quality Assurance Lead,Junior,Bachelor,Field,Yes,5,2.0,0.0,40.0,No,Phone,English,2024-01-19,2024-02-09,G**** R*******,Yes,CRM
+E00047,B**** U*******,Production,C0658,Plant Supervisor,Mid,Bachelor,Office,No,2,5.0,2.0,34.0,No,LinkedIn,English,2024-01-15,2024-02-04,E**** T*******,Yes,LinkedIn
+E00048,E**** A*******,Procurement,C0055,Procurement Analyst,Junior,Bachelor,Field,Yes,0,2.0,2.0,85.0,No,LinkedIn,Turkish,2024-08-18,2024-09-08,B**** K*******,Yes,LinkedIn
+E00049,D**** A*******,Procurement,C0355,Procurement Specialist,Mid,Bachelor,Office,Yes,1,5.0,1.0,52.0,No,Email,Turkish,2024-04-23,2024-05-01,C**** D*******,Yes,Email Campaign
+E00050,A**** O*******,Procurement,C0659,Procurement Manager,Mid,Bachelor,Office,Yes,3,2.0,0.0,33.0,No,Email,Turkish,2024-07-05,2024-07-16,A**** Y*******,Yes,Fair
